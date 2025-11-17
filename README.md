@@ -27,33 +27,34 @@ It includes a full **desktop GUI**, **database layer**, **repository modules**, 
 
 ## 📁 Project Structure
 
+```
 RestaurantOrderingSystem/
 │
-├── docs/ # SDLC Report
-│ └── Restaurant_Ordering_Application_Phase_III_Xiaobo_Zhan.docx
+├── docs/                         # SDLC Report
+│   └── Restaurant_Ordering_Application.docx
 │
-├── src/ # Application source code
-│ ├── app.py # Main entry point
-│ ├── models.py # Data models
-│ ├── db.py # Database connection
-│ ├── db_config.py # DB settings
-│ ├── theme.py # App theme
-│ ├── calc.py # Calculation utilities
-│ │
-│ ├── customers_repo.py # CRUD Repositories
-│ ├── menu_repo.py
-│ ├── orders_repo.py
-│ ├── payments_repo.py
-│ │
-│ ├── customer_window.py # GUI Windows
-│ ├── menu_window.py
-│ ├── order_window.py
-│ ├── daily_report_window.py
-│ ├── order_search_window.py
-│ ├── payment_history_window.py
+├── src/                          # Application source code
+│   ├── app.py                    # Main entry point
+│   ├── models.py                 # Data models
+│   ├── db.py                     # Database connection
+│   ├── db_config.py              # DB settings
+│   ├── theme.py                  # App theme
+│   ├── calc.py                   # Calculation utilities
+│   │
+│   ├── customers_repo.py         # CRUD Repositories
+│   ├── menu_repo.py
+│   ├── orders_repo.py
+│   ├── payments_repo.py
+│   │
+│   ├── customer_window.py        # GUI Windows
+│   ├── menu_window.py
+│   ├── order_window.py
+│   ├── daily_report_window.py
+│   ├── order_search_window.py
+│   ├── payment_history_window.py
 │
 └── .gitignore
-
+```
 
 ---
 
@@ -98,4 +99,5 @@ python src/app.py
 **Xiaobo Zhan**  
 Software Development Attestation  
 Vanier College, Montreal
+
 
