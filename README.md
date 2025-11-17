@@ -1,7 +1,7 @@
 # 🍽️ Restaurant Ordering System (Python + PyQt6)
 
 This project is a complete **Restaurant Ordering Application** developed as part of the **Software Development Attestation** program at **Vanier College**.  
-It includes a full **desktop GUI**, **database layer**, **repository modules**, and a complete **Phase III SDLC documentation**.
+It includes a full **desktop GUI**, **database layer**, **repository modules**, and a complete **SDLC documentation**.
 
 ---
 
@@ -59,7 +59,7 @@ RestaurantOrderingSystem/
 
 ## 🗂️ SDLC Documentation
 
-This repository includes a complete **Phase III SDLC Report**, covering:
+This repository includes a complete **SDLC Report**, covering:
 
 - System Planning  
 - System Analysis  
@@ -98,3 +98,4 @@ python src/app.py
 **Xiaobo Zhan**  
 Software Development Attestation  
 Vanier College, Montreal
+
