@@ -97,7 +97,8 @@ python src/app.py
 ## 👨‍🎓 Author
 
 **Xiaobo Zhan**  
-Software Development Attestation  
+Software Development Attestation – Secure Desktop, Mobile and Web Applications  
 Vanier College, Montreal
+
 
 
